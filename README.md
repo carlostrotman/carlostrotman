@@ -16,7 +16,7 @@ Acredito que a tecnologia e os dados devem ser usados para resolver problemas re
 
 ### 📬 Como me encontrar:
 
-* **LinkedIn:** [Insira o link do seu LinkedIn aqui](https://www.linkedin.com/in/carlos-trotman-3066b3155/)
+* **LinkedIn:** [Carlos Trotman](https://www.linkedin.com/in/carlos-trotman-3066b3155/)
 * **Localização:** Rio de Janeiro, RJ
 
 > "A inteligência de dados aplicada ao negócio transforma números complexos em decisões simples e estratégicas."
