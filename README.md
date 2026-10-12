@@ -1,4 +1,4 @@
-# Olá, eu sou o Carlos Vinicius! 
+# Olá, eu sou o Carlos Trotman! 
 
 Estudante de **Análise e Desenvolvimento de Sistemas** e minha trajetória une sólida vivência em processos corporativos de grande porte (BNDES, Transpetro, Prefeitura do RJ) com foco em **Análise de Dados, Business Intelligence (Power BI), SQL e Suporte Analítico**.
 
